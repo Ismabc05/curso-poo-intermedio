@@ -118,7 +118,7 @@ public class Main {
 Clona este repositorio:
 
 ```bash id="k0q1nv"
-git clone https://github.com/Ismabc05/curso-poo-basico.git
+git clone https://github.com/Ismabc05/curso-poo-intermedio.git
 ```
 
 Instala las dependencias:
