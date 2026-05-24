@@ -111,3 +111,18 @@ public class Main {
         persona.saludar();
     }
 }
+
+
+
+```
+Clona este repositorio:
+
+```bash id="k0q1nv"
+git clone https://github.com/Ismabc05/curso-poo-basico.git
+```
+
+Instala las dependencias:
+
+```bash id="5vwq8z"
+npm install
+```
